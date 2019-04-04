@@ -1,12 +1,16 @@
 ### INFORMATION WE COLLECT AND HOW
+
 While using our Services, we may ask you to provide us with certain personally identifiable information that can be used to identify you (“Personal Data”). Our Services are designed to avoid collecting information such as your name, address, email address or other similar contact data unless you provide such data to us. The information we collect include:
 
 * Device Information
+
 When you download and use our Services, we automatically collect information on the type of device you use, operating system, resolution, application version, and the mobile device identifiers (such as your device ID, advertising ID), language and time zone and IP address.
 
 * Usage Information
+
 We collect information automatically about your activity through our Services, for example date and time you used a service, features you have used, in-app purchases history, subscriptions, and advertising that you click on, and data generated when you use our Services, for example your game progress which may be stored with your Apple ID on iCloud for iOS Devices or with your Google Play Games profile for Android Devices in some of our Services. Our Services may also contain tools from third party service providers that may enable these third parties to separately collect and/or analyze non-Personal Data from the users' devices.
 
 * Other information
+
 We may collect upon your permission other information such as precise geolocation (latitude and longitude) using information including GPS, Bluetooth or Wi-Fi connections. If you decline permission for us to collect your geolocation, we will not collect it. Similarly, we may ask for access to your camera in case you want to use certain features of our Services.
 
